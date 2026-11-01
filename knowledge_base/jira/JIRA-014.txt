@@ -1,0 +1,5 @@
+jira_id: JIRA-014
+title: Samsung UE Issue 14
+description: Device model 1014 reported unexpected reboot.
+comment: Technician note: Issue 14 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 14.

@@ -1,0 +1,5 @@
+conf_id: CONF-016
+title: Samsung Settings/Log Analysis 16
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 16 documented.
+R&D_analysis: Analysis indicates Parameter mapping error.

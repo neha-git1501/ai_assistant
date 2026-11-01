@@ -1,0 +1,5 @@
+jira_id: JIRA-035
+title: Samsung UE Issue 35
+description: Device model 1035 reported unexpected reboot.
+comment: Technician note: Issue 35 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Firmware instability in build 35.

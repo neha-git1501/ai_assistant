@@ -1,0 +1,5 @@
+jira_id: JIRA-046
+title: Samsung UE Issue 46
+description: Device model 1046 reported firmware crash.
+comment: Technician note: Issue 46 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 46.

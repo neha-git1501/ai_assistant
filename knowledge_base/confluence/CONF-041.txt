@@ -1,0 +1,5 @@
+conf_id: CONF-041
+title: Samsung Settings/Log Analysis 41
+description: Observed anomaly in UE logs: settings reset.
+comment: Support note: Issue 41 documented.
+R&D_analysis: Analysis indicates Cache overflow.

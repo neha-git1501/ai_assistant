@@ -1,0 +1,5 @@
+conf_id: CONF-002
+title: Samsung Settings/Log Analysis 2
+description: Observed anomaly in UE logs: log corruption.
+comment: Support note: Issue 2 documented.
+R&D_analysis: Analysis indicates Parameter mapping error.

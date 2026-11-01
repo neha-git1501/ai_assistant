@@ -1,0 +1,5 @@
+jira_id: JIRA-004
+title: Samsung UE Issue 4
+description: Device model 1004 reported unexpected reboot.
+comment: Technician note: Issue 4 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 4.

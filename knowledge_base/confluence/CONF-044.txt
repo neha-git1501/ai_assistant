@@ -1,0 +1,5 @@
+conf_id: CONF-044
+title: Samsung Settings/Log Analysis 44
+description: Observed anomaly in UE logs: settings reset.
+comment: Support note: Issue 44 documented.
+R&D_analysis: Analysis indicates Incorrect registry entry.

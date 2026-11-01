@@ -1,0 +1,5 @@
+jira_id: JIRA-043
+title: Samsung UE Issue 43
+description: Device model 1043 reported unexpected reboot.
+comment: Technician note: Issue 43 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 43.

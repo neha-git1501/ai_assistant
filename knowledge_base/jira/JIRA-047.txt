@@ -1,0 +1,5 @@
+jira_id: JIRA-047
+title: Samsung UE Issue 47
+description: Device model 1047 reported network drop.
+comment: Technician note: Issue 47 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 47.

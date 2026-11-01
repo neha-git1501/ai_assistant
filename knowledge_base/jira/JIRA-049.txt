@@ -1,0 +1,5 @@
+jira_id: JIRA-049
+title: Samsung UE Issue 49
+description: Device model 1049 reported SIM not detected.
+comment: Technician note: Issue 49 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 49.

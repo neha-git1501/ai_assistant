@@ -1,0 +1,5 @@
+conf_id: CONF-045
+title: Samsung Settings/Log Analysis 45
+description: Observed anomaly in UE logs: settings reset.
+comment: Support note: Issue 45 documented.
+R&D_analysis: Analysis indicates Parameter mapping error.

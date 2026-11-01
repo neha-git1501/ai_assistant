@@ -1,0 +1,5 @@
+jira_id: JIRA-019
+title: Samsung UE Issue 19
+description: Device model 1019 reported battery overheating.
+comment: Technician note: Issue 19 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 19.

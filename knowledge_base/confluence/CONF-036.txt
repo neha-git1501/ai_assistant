@@ -1,0 +1,5 @@
+conf_id: CONF-036
+title: Samsung Settings/Log Analysis 36
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 36 documented.
+R&D_analysis: Analysis indicates Cache overflow.

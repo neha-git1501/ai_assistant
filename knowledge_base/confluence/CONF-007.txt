@@ -1,0 +1,5 @@
+conf_id: CONF-007
+title: Samsung Settings/Log Analysis 7
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 7 documented.
+R&D_analysis: Analysis indicates Incorrect registry entry.

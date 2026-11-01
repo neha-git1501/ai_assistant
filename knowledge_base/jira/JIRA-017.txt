@@ -1,0 +1,5 @@
+jira_id: JIRA-017
+title: Samsung UE Issue 17
+description: Device model 1017 reported battery overheating.
+comment: Technician note: Issue 17 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 17.

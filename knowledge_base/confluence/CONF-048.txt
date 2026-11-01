@@ -1,0 +1,5 @@
+conf_id: CONF-048
+title: Samsung Settings/Log Analysis 48
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 48 documented.
+R&D_analysis: Analysis indicates Parameter mapping error.

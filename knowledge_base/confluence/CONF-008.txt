@@ -1,0 +1,5 @@
+conf_id: CONF-008
+title: Samsung Settings/Log Analysis 8
+description: Observed anomaly in UE logs: slow boot.
+comment: Support note: Issue 8 documented.
+R&D_analysis: Analysis indicates Driver misconfiguration.

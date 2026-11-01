@@ -1,0 +1,5 @@
+jira_id: JIRA-022
+title: Samsung UE Issue 22
+description: Device model 1022 reported network drop.
+comment: Technician note: Issue 22 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 22.

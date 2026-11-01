@@ -1,0 +1,5 @@
+jira_id: JIRA-027
+title: Samsung UE Issue 27
+description: Device model 1027 reported SIM not detected.
+comment: Technician note: Issue 27 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 27.

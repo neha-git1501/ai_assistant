@@ -1,0 +1,5 @@
+jira_id: JIRA-045
+title: Samsung UE Issue 45
+description: Device model 1045 reported screen freeze.
+comment: Technician note: Issue 45 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 45.

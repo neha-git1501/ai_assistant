@@ -1,0 +1,5 @@
+jira_id: JIRA-029
+title: Samsung UE Issue 29
+description: Device model 1029 reported SIM not detected.
+comment: Technician note: Issue 29 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 29.

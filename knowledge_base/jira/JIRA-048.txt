@@ -1,0 +1,5 @@
+jira_id: JIRA-048
+title: Samsung UE Issue 48
+description: Device model 1048 reported SIM not detected.
+comment: Technician note: Issue 48 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 48.

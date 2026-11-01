@@ -1,0 +1,5 @@
+jira_id: JIRA-003
+title: Samsung UE Issue 3
+description: Device model 1003 reported network drop.
+comment: Technician note: Issue 3 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 3.

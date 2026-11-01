@@ -1,0 +1,5 @@
+jira_id: JIRA-039
+title: Samsung UE Issue 39
+description: Device model 1039 reported firmware crash.
+comment: Technician note: Issue 39 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 39.

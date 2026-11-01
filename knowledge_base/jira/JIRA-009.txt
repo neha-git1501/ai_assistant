@@ -1,0 +1,5 @@
+jira_id: JIRA-009
+title: Samsung UE Issue 9
+description: Device model 1009 reported network drop.
+comment: Technician note: Issue 9 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 9.

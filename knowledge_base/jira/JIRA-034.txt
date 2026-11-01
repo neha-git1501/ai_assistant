@@ -1,0 +1,5 @@
+jira_id: JIRA-034
+title: Samsung UE Issue 34
+description: Device model 1034 reported network drop.
+comment: Technician note: Issue 34 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 34.

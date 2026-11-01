@@ -1,0 +1,5 @@
+jira_id: JIRA-002
+title: Samsung UE Issue 2
+description: Device model 1002 reported SIM not detected.
+comment: Technician note: Issue 2 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 2.

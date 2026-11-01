@@ -1,0 +1,5 @@
+conf_id: CONF-015
+title: Samsung Settings/Log Analysis 15
+description: Observed anomaly in UE logs: slow boot.
+comment: Support note: Issue 15 documented.
+R&D_analysis: Analysis indicates Cache overflow.

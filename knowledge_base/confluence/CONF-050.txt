@@ -1,0 +1,5 @@
+conf_id: CONF-050
+title: Samsung Settings/Log Analysis 50
+description: Observed anomaly in UE logs: slow boot.
+comment: Support note: Issue 50 documented.
+R&D_analysis: Analysis indicates Driver misconfiguration.

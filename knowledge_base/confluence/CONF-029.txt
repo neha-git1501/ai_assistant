@@ -1,0 +1,5 @@
+conf_id: CONF-029
+title: Samsung Settings/Log Analysis 29
+description: Observed anomaly in UE logs: settings reset.
+comment: Support note: Issue 29 documented.
+R&D_analysis: Analysis indicates Cache overflow.

@@ -1,0 +1,5 @@
+jira_id: JIRA-044
+title: Samsung UE Issue 44
+description: Device model 1044 reported unexpected reboot.
+comment: Technician note: Issue 44 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 44.

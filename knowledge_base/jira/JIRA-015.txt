@@ -1,0 +1,5 @@
+jira_id: JIRA-015
+title: Samsung UE Issue 15
+description: Device model 1015 reported screen freeze.
+comment: Technician note: Issue 15 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 15.

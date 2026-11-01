@@ -1,0 +1,5 @@
+jira_id: JIRA-042
+title: Samsung UE Issue 42
+description: Device model 1042 reported firmware crash.
+comment: Technician note: Issue 42 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 42.

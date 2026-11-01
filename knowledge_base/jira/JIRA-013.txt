@@ -1,0 +1,5 @@
+jira_id: JIRA-013
+title: Samsung UE Issue 13
+description: Device model 1013 reported unexpected reboot.
+comment: Technician note: Issue 13 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Firmware instability in build 13.

@@ -1,0 +1,5 @@
+jira_id: JIRA-024
+title: Samsung UE Issue 24
+description: Device model 1024 reported network drop.
+comment: Technician note: Issue 24 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 24.

@@ -1,0 +1,5 @@
+jira_id: JIRA-010
+title: Samsung UE Issue 10
+description: Device model 1010 reported screen freeze.
+comment: Technician note: Issue 10 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Driver conflict in build 10.

@@ -1,0 +1,5 @@
+jira_id: JIRA-040
+title: Samsung UE Issue 40
+description: Device model 1040 reported battery overheating.
+comment: Technician note: Issue 40 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 40.

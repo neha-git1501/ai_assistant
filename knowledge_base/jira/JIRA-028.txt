@@ -1,0 +1,5 @@
+jira_id: JIRA-028
+title: Samsung UE Issue 28
+description: Device model 1028 reported screen freeze.
+comment: Technician note: Issue 28 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 28.

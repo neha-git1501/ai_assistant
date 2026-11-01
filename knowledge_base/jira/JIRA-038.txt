@@ -1,0 +1,5 @@
+jira_id: JIRA-038
+title: Samsung UE Issue 38
+description: Device model 1038 reported battery overheating.
+comment: Technician note: Issue 38 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 38.

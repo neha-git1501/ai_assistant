@@ -1,0 +1,5 @@
+conf_id: CONF-046
+title: Samsung Settings/Log Analysis 46
+description: Observed anomaly in UE logs: slow boot.
+comment: Support note: Issue 46 documented.
+R&D_analysis: Analysis indicates Cache overflow.

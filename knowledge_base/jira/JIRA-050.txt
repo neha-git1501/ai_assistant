@@ -1,0 +1,5 @@
+jira_id: JIRA-050
+title: Samsung UE Issue 50
+description: Device model 1050 reported SIM not detected.
+comment: Technician note: Issue 50 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 50.

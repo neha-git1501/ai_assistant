@@ -1,0 +1,5 @@
+jira_id: JIRA-036
+title: Samsung UE Issue 36
+description: Device model 1036 reported firmware crash.
+comment: Technician note: Issue 36 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Firmware instability in build 36.

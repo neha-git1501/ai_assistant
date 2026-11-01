@@ -1,0 +1,5 @@
+jira_id: JIRA-020
+title: Samsung UE Issue 20
+description: Device model 1020 reported unexpected reboot.
+comment: Technician note: Issue 20 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Kernel panic in build 20.

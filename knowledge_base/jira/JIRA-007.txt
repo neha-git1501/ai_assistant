@@ -1,0 +1,5 @@
+jira_id: JIRA-007
+title: Samsung UE Issue 7
+description: Device model 1007 reported SIM not detected.
+comment: Technician note: Issue 7 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 7.

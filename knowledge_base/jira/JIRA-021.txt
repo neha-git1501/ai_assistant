@@ -1,0 +1,5 @@
+jira_id: JIRA-021
+title: Samsung UE Issue 21
+description: Device model 1021 reported SIM not detected.
+comment: Technician note: Issue 21 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 21.

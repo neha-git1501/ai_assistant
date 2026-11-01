@@ -1,0 +1,5 @@
+jira_id: JIRA-018
+title: Samsung UE Issue 18
+description: Device model 1018 reported unexpected reboot.
+comment: Technician note: Issue 18 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 18.

@@ -1,0 +1,5 @@
+conf_id: CONF-037
+title: Samsung Settings/Log Analysis 37
+description: Observed anomaly in UE logs: log corruption.
+comment: Support note: Issue 37 documented.
+R&D_analysis: Analysis indicates Driver misconfiguration.

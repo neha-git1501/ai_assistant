@@ -1,0 +1,5 @@
+conf_id: CONF-032
+title: Samsung Settings/Log Analysis 32
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 32 documented.
+R&D_analysis: Analysis indicates Incorrect registry entry.

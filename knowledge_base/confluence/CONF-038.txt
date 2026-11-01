@@ -1,0 +1,5 @@
+conf_id: CONF-038
+title: Samsung Settings/Log Analysis 38
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 38 documented.
+R&D_analysis: Analysis indicates Driver misconfiguration.

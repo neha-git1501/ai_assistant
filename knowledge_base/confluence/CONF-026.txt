@@ -1,0 +1,5 @@
+conf_id: CONF-026
+title: Samsung Settings/Log Analysis 26
+description: Observed anomaly in UE logs: settings reset.
+comment: Support note: Issue 26 documented.
+R&D_analysis: Analysis indicates Parameter mapping error.

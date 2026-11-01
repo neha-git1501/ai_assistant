@@ -1,0 +1,5 @@
+jira_id: JIRA-033
+title: Samsung UE Issue 33
+description: Device model 1033 reported SIM not detected.
+comment: Technician note: Issue 33 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Radio stack error in build 33.

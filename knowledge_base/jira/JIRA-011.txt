@@ -1,0 +1,5 @@
+jira_id: JIRA-011
+title: Samsung UE Issue 11
+description: Device model 1011 reported screen freeze.
+comment: Technician note: Issue 11 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Memory leak in build 11.

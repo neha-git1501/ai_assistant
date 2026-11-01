@@ -1,0 +1,5 @@
+conf_id: CONF-004
+title: Samsung Settings/Log Analysis 4
+description: Observed anomaly in UE logs: config mismatch.
+comment: Support note: Issue 4 documented.
+R&D_analysis: Analysis indicates Driver misconfiguration.

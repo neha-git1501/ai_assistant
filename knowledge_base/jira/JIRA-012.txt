@@ -1,0 +1,5 @@
+jira_id: JIRA-012
+title: Samsung UE Issue 12
+description: Device model 1012 reported SIM not detected.
+comment: Technician note: Issue 12 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Configuration mismatch in build 12.

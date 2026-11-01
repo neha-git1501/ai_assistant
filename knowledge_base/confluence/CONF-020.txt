@@ -1,0 +1,5 @@
+conf_id: CONF-020
+title: Samsung Settings/Log Analysis 20
+description: Observed anomaly in UE logs: slow boot.
+comment: Support note: Issue 20 documented.
+R&D_analysis: Analysis indicates Incorrect registry entry.

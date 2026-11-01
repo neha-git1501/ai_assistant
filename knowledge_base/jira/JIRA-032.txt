@@ -1,0 +1,5 @@
+jira_id: JIRA-032
+title: Samsung UE Issue 32
+description: Device model 1032 reported network drop.
+comment: Technician note: Issue 32 logged, pending RCA.
+R&D_analysis: Preliminary analysis suggests Firmware instability in build 32.
